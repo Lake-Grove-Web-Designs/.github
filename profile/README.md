@@ -8,4 +8,4 @@ Welcome to **Lake Grove Web Designs**' official GitHub organization! We're dedic
 ## 📧 **Contact Us**
 
 Have questions or want to work with us? Reach out:
-- **Email**: alexwalker293@gmail.com
+- **Email**: alex@lakegrovewebdesigns.com
